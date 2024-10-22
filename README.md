@@ -1,4 +1,5 @@
-# IMPORTANT: THIS IS USED ONLY FOR BALANCO 
+# Legacy Sage use only.
+
 Roots/lib-sage only works with composer installers 1.0, not 2.0 as we use, so this version has been updated to use 2.0.
 
 # [Sage](https://roots.io/sage/)
